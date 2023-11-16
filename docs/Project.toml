@@ -1,0 +1,3 @@
+[deps]
+Documenter = "e30172f5-a6a5-5a46-863b-614d45cd2de4"
+JuliaML = "b4c2a4a1-679c-4bc7-ad45-127ee117db26"
