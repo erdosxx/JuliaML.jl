@@ -1,5 +1,8 @@
 module JuliaML
 
-# Write your package code here.
+"""
+``\frac{a}{b}``
+
+"""
 
 end
